@@ -10,5 +10,5 @@ phases:
       - echo Build completed successfully
 artifacts:
   files:
-    - target/BlogApi.jar
+    - BlogApi.jar
   discard-paths: yes
